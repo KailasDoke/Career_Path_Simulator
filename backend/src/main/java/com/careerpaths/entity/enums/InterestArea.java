@@ -1,0 +1,6 @@
+package com.careerpaths.entity.enums;
+
+public enum InterestArea {
+    TECHNOLOGY, HEALTHCARE, BUSINESS, FINANCE, DESIGN, RESEARCH, ARTS, SOCIAL_SCIENCES, ENGINEERING, ENVIRONMENT, OTHER
+}
+
