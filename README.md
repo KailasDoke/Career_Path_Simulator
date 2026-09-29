@@ -1,4 +1,4 @@
-🎓 Career Path Simulator
+## **🎓 Career Path Simulator**
 
 
 
@@ -106,43 +106,43 @@ Instead of predicting one career, the platform generates multiple possible pathw
 
 ```text
 
-Student Profile
+##### Student Profile
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Academic + Aptitude + Interests
+##### Academic + Aptitude + Interests
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Financial Situation + Location
+##### Financial Situation + Location
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Multiple Education Pathways
+##### Multiple Education Pathways
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Programs + Institutions
+##### Programs + Institutions
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Cost + Admission Requirements
+##### Cost + Admission Requirements
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Scholarships + Funding
+##### Scholarships + Funding
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Education Financing
+##### Education Financing
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-"What If?" Simulation
+##### "What If?" Simulation
 
-&#x20;     ↓
+##### &#x20;     ↓
 
-Decision Matrix
+##### Decision Matrix
 
 ```
 
